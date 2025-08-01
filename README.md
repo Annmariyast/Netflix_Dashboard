@@ -12,6 +12,7 @@ date_added, release_year, rating, duration
 listed_in (genres), description
 
 🔍 Dashboard Features
+
 📅 Content Added by Year
 Trend showing how many titles were added over time.
 
